@@ -2,4 +2,5 @@
 Proyecto realizado para implementar conceptos aprendidos en curso "Lógica de programación: explorar funciones y listas"
 
 * Proyecto finalizado :heavy_check_mark:
+* URL https://josefinamagini.github.io/juego-secreto/
 
